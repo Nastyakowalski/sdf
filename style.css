@@ -1,0 +1,6 @@
+.tel::before{
+    content:url("https://cdn-icons-png.flaticon.com/512/126/126341.png?w=740&t=st=1685622371~exp=1685622971~hmac=cbce91ab40ec129818f7f9c16f9c8ae9219026049458581dffc36c8dddfcaba9");
+    width: 30px;
+    height: 30px;
+    display:inline-block;
+}
